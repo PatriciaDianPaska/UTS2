@@ -9,4 +9,4 @@ CODING
 ![alt text](https://github.com/PatriciaDianPaska/UTS2/blob/master/SSUTS2/7.JPG)
 
 HASIL
-![alt text](https://github.com/PatriciaDianPaska/UTS2/blob/master/SSUTS2/8.JPG)
+![alt text](https://github.com/PatriciaDianPaska/UTS2/blob/master/SSUTS2/8.png)
